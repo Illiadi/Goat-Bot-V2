@@ -26,7 +26,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("ˢᵃˡᵘᵗ ᶠʳᵃⁿᵍⁱⁿ c̶a̶ r̶o̶u̶l̶e̶  ??✨☄️😷༅ ");
+        await message.reply(" 𝖲𝖺𝗅𝗎𝗍 𝗍𝗈𝗂...𝖬𝗈𝗂 𝖼'𝖾𝗌𝗍 ✰...𝗘𝗗𝗡𝗔...✰ 𝖰𝗎𝖾 𝗉𝗎𝗂𝗌 𝗃𝖾 𝖿𝖺𝗂𝗋𝖾 𝗉𝗈𝗎𝗋 𝗍𝗈𝗂 🪶");
         return;
       }
 
@@ -35,7 +35,7 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `💀GHØST ✨☄️
+    await message.reply({ body: `✰...𝗘𝗗𝗡𝗔...✰
 ━━━━━━━━━━━━━        
 ${answer}
 ━━━━━━━━━━━━━`,
