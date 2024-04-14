@@ -61,7 +61,7 @@ module.exports = {
       pageNotFound: "Trang %1 không tồn tại"
     },
     en: {
-      help: "𝗕𝗼𝘁 𝗯𝘆:🪶Čhou Illiadis Lünõr🪶\n\n%1\n✶⊶⊷⊶⊷❍\n 𝗣𝗮𝗴𝗲 [ %2/%3 ]\n➤✰ 𝗷'𝗮𝗶 𝗮𝗰𝘁𝘂𝗲𝗹𝗹𝗲𝗺𝗲𝗻𝘁「 %4 」𝗖𝗠𝗗s \n➤✰ 𝗧𝗬𝗣𝗘: %5help <𝙿𝙰𝙶𝙴> 𝗽𝗼𝘂𝗿 𝘃𝗼𝗶𝗿 𝗹𝗮 𝗹𝗶𝘀𝘁𝗲 𝗱𝗲 𝗺𝗲𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝗲\n➤🪶 » 𝗧𝗬𝗣𝗘: %5help 𝗖𝗼𝗺𝗺𝗲𝗻𝘁 𝘂𝘁𝗶𝗹𝗶𝘀𝗲𝗿 𝗹𝗮 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝗲\n๑۩ ,¸¸,ø¤º°`°๑۞๑\n│ %6\n✶⊶⊷⊶⊷❍",
+      help: "𝗕𝗼𝘁 𝗯𝘆:🪶Čhou Illiadis Lünõr🪶\n\n%1\n✶⊶⊷⊶⊷❍\n 𝗣𝗮𝗴𝗲 [ %2/%3 ]\n➤✰ 𝗷'𝗮𝗶 𝗮𝗰𝘁𝘂𝗲𝗹𝗹𝗲𝗺𝗲𝗻𝘁「 %4 」𝗖𝗠𝗗s \n➤✰ 𝗧𝗬𝗣𝗘: %5help <𝙿𝙰𝙶𝙴> 𝗽𝗼𝘂𝗿 𝘃𝗼𝗶𝗿 𝗹𝗮 𝗹𝗶𝘀𝘁𝗲 𝗱𝗲 𝗺𝗲𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝗲\n➤🪶 » 𝗧𝗬𝗣𝗘: %5help 𝗖𝗼𝗺𝗺𝗲𝗻𝘁 𝘂𝘁𝗶𝗹𝗶𝘀𝗲𝗿 𝗹𝗮 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝗲\n\n│ %6\n═════════",
       help2: "%1════════\n》✰𝗟𝗮 𝘁𝗼𝘁𝗮𝗹𝗶𝘁𝗲 𝗱𝗲 𝗺𝗲𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝗲〚%2〛 𝗖𝗠𝗗🎐\n》✰⊰⊹ 𝗧𝗬𝗣𝗘: %3help ⊹⊱ 𝗽𝗼𝘂𝗿 𝗹𝗲𝘀 𝗲𝘅𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀\n🪶𝐁𝐨𝐭:\n%4\n𝗖𝗵𝗼𝘂 𝗜𝗹𝗹𝗶𝗮𝗱𝗶𝘀 𝗟𝘂𝗻𝗼𝗿",
       commandNotFound: "𝗖𝗠𝗗 \"『%1』\" 𝙳𝚘𝚎𝚜 𝙴𝚡𝚒𝚜𝚝",
       getInfoCommand: "╭── NAME ────🪶\n %1\n├── INFO\n│ Description: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n├── Usage\n%9\n├── Notes\n│ The content inside <XXXXX> can be changed\n│ The content inside [a|b|c] is a or b or c\n╰──────🪶",
