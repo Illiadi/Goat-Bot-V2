@@ -35,10 +35,9 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `✰...𝗘𝗗𝗡𝗔...✰
-━━━━━━━━━━━━━        
-${answer}
-━━━━━━━━━━━━━`,
+    await message.reply({ body: `┃✰...𝗘𝗗𝗡𝗔...✰┃
+═══════════════
+${answer} `,
 });
 
    } catch (error) {
